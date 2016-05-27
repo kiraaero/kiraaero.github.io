@@ -1,0 +1,59 @@
+		* {-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			box-sizing: border-box;}
+		h2 {
+		color:yellow;
+						}
+		
+	
+		nav {position: absolute;
+			top: 10px;
+		}
+		.navbar-brand {position: absolute;
+						top: -15px;
+						}
+		
+		
+		#techblag {color:white;
+		font: 28px;
+		font-style:normal;
+		
+		}
+		
+		/*.row {margin-top:5px;}*/
+		
+		
+		
+		#contacts {font-size:22px;
+		font-family: monospace;
+		width:30%;
+		/* position:absolute;
+		left:50%;
+		top:150%; */}
+		
+		.aromatizaciya {width:50%;
+		color:white;
+	
+		font-size:18px;
+		font-style:italic;
+		/*position:absolute;
+			left:680px;
+			top:18%;*/
+		}
+		
+		.jumbotron {
+		background-image:url('florence.jpg');
+		background-size:cover;
+		height:750px;
+		}
+		
+		.aromamarketing {background-color:lavenderblush;
+		font-family:calibri;
+		font-size:32px;
+		}
+		.btn {fill:yellow;}
+		
+		li {color:lavender;
+		font-family:Helvetica;
+		font-weight:bold;
+	}

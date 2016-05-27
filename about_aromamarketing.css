@@ -1,0 +1,19 @@
+
+		
+	
+		nav {position: absolute;
+			top: 10px;
+		}
+		.navbar-brand {position: absolute;
+						top: -15px;
+						}
+		
+		
+			
+		#about {text-center;}		
+		li {display:inline;
+		font-family:Helvetica;
+		font-weight:bold;
+		}
+		
+		
