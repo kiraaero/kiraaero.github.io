@@ -29,7 +29,9 @@
 
 .thumbnail img{height:150px;}
 
-.thumbnail {border:none;}
+.thumbnail {border:none;
+	height:200px;
+}
 
  .bg-grey {
       background-color: #f6f6f6;
